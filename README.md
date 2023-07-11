@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Baumgartner</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
 
-- 🔭 I’m currently working on [final project](https://github.com/Baumi92/final-project-league-nextjs-app-pjct-next-4-final-project-.git)
+- 🔭 I’m currently working on [final project](https://github.com/Baumi92/final-project-league-nextjs-app.git)
 
 - 🌱 I’m currently learning **next.js and sass**
 
